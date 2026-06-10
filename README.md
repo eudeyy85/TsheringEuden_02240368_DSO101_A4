@@ -4,7 +4,6 @@
 **Programme:** Bachelor's of Engineering in Software Engineering (SWE)  
 **Name:** Tshering Euden  
 **Student ID:** 02240368  
-**Date of Submission:** 13th May 2026  
 **GitHub Repo:** https://github.com/eudeyy85/TsheringEuden_02240368_DSO101_A4  
 **Live URL:** https://tsheringeuden-02240368-dso101-a4.onrender.com/webpage.html
 
