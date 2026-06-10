@@ -36,8 +36,6 @@ TsheringEuden_02240368_DSO101_A4/
 ├── .github/
 │   └── workflows/
 │       └── deploy.yml
-├── webpage.html
-├── webpage.css
 ├── app.py
 ├── requirements.txt
 ├── TSHERING EUDEN (02240368).JPG
